@@ -92,4 +92,4 @@ git push origin main
 
 💡Contributions & Feedback: Open to collaboration! If you have suggestions, feel free to create an issue or pull request.
 
-📧 Contact: Zingisa Matwana | Data Scientist
+📧 Contact: Zingisa Matwana | Ontogec | Data Scientist
