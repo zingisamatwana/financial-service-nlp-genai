@@ -49,27 +49,27 @@ financial-service-nlp-genai/
 🛠️ Setup & Installation
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/zingisamatwana/financial-service-nlp-genai.git
 
 pip install -r requirements.txt
-
+```
 2. Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 3. Run Jupyter Notebooks:
-
+```bash
 jupyter notebook
-
+```
 4. Start experimenting in notebooks (notebooks/ folder).
 
 5. Commit & push changes to GitHub:
-
+```bash
 git add .
 git commit -m "Initial NLP experiments"
 git push origin main
-
+```
 
 🚀 Key Features
 
