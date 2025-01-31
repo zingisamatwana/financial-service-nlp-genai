@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-4. Start experimenting in notebooks (notebooks/ folder).
+4. Start experimenting in notebooks (`notebooks`/ folder).
 
 5. Commit & push changes to GitHub:
 ```bash
