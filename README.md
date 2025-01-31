@@ -10,41 +10,7 @@ This repository contains **Natural Language Processing (NLP) and Generative AI e
 > **Marketing AI Models** – NLP-powered segmentation and engagement prediction.
 
 # Repository Structure
-
-financial-service-nlp-genai/
-│── datasets/                    # Financial NLP datasets
-│   ├── financial_phrasebank.csv  # Sentiment-labeled finance data
-│   ├── customer_reviews.json     # Customer complaints & feedback
-│   ├── earnings_reports.txt      # SEC filings for analysis
-│
-│── models/                       # Trained NLP models
-│   ├── finbert_model/            # Fine-tuned BERT for finance
-│   ├── smart_goals_chatbot/      # AWS Lex chatbot model
-│
-│── notebooks/                    # Jupyter Notebooks for NLP
-│   ├── 01_data_preprocessing.ipynb       # Data cleaning & preprocessing
-│   ├── 02_sentiment_analysis.ipynb       # Predict customer sentiment
-│   ├── 03_finetune_bert_gpt.ipynb        # Fine-tuning BERT/GPT for financial tasks
-│   ├── 04_chatbot_training.ipynb         # Training AWS Lex chatbot
-│   ├── 05_marketing_nlp_analysis.ipynb   # NLP-driven customer segmentation
-│
-│── src/                          # Source code for training & inference
-│   ├── chatbot_pipeline.py       # AWS Lex chatbot training script
-│   ├── sentiment_analysis.py     # Fine-tuned sentiment classifier
-│   ├── data_loader.py            # Loads & preprocesses datasets
-│   ├── fine_tune_llm.py          # Script to fine-tune GPT/FinBERT
-│
-│── results/                      # Model outputs & reports
-│   ├── chatbot_logs/             # Logs from chatbot conversations
-│   ├── nlp_predictions.csv       # Predicted sentiment for customer queries
-│
-│── configs/                      # Model & API configurations
-│   ├── lex_bot_config.json       # AWS Lex chatbot settings
-│   ├── huggingface_model.yaml    # Config for fine-tuning transformers
-│
-│── README.md                      # Project documentation
-│── requirements.txt                # Dependencies (transformers, AWS SDK, etc.)
-│── .gitignore                      # Ignore unnecessary files
+ > Includes relevent folder and files
 
 🛠️ Setup & Installation
 
