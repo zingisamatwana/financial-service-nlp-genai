@@ -12,7 +12,7 @@ This repository contains **Natural Language Processing (NLP) and Generative AI e
 # Repository Structure
  > Includes relevent folder and files
 
-🛠️ Setup & Installation
+# 🛠️ Setup & Installation
 
 1. Clone the repository:
 ```bash
@@ -37,7 +37,7 @@ git commit -m "Initial NLP experiments"
 git push origin main
 ```
 
-🚀 Key Features
+# 🚀 Key Features
 
 * Fine-Tuned Transformers – BERT, FinBERT, GPT for finance-related tasks.
 * Fine-Tuned LLMs (GPT, BERT, FinBERT) – Create custom models for financial conversations.
@@ -48,7 +48,7 @@ git push origin main
 * Marketing NLP Insights – Build predictive models for customer engagement.
 * Structured Workflow – Separate datasets, notebooks, source code, and results.
 
-🤖 Next Steps
+# 🤖 Next Steps
 
 * Train FinBERT on Old Mutual customer queries.
 
@@ -56,6 +56,6 @@ git push origin main
 
 * Integrate NLP insights into marketing workflows.
 
-💡Contributions & Feedback: Open to collaboration! If you have suggestions, feel free to create an issue or pull request.
+# 💡Contributions & Feedback: Open to collaboration! If you have suggestions, feel free to create an issue or pull request.
 
 📧 Contact: Zingisa Matwana | Ontogec | Data Scientist
